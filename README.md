@@ -3,13 +3,9 @@ Food recipe app
 
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
+
 <h1 align="center">
-  Gatsby's blog starter
+  Forkify App
 </h1>
 
 Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
@@ -70,10 +66,3 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.udemy.com/). Here are some places to start:
 
 
-## 💫 Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/forkify)
-
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/)
-
-<!-- AUTO-GENERATED-CONTENT:END -->
