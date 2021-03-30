@@ -31,7 +31,7 @@ Food recipe app
 
 ## 🧐 What's inside?
 
-A quick look at the top-level files and directories you'll see in a Gatsby project.
+A quick look at the top-level files and directories you'll see in this project.
 
     .
     ├── node_modules
